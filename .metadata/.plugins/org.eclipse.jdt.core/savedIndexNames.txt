@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/bendupont/Desktop/Master/Random Code/Java/BrickBreaker/.metadata/.plugins/org.eclipse.jdt.core
+1277319819.index
+2583028771.index
