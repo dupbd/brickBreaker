@@ -60,7 +60,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
 		g.drawString("" + score, 590, 30);
 
 		// paddle
-		g.setColor(Color.GREEN);
+		g.setColor(Color.BLACK);
 		g.fillRect(playerX, 550, 100, 8);
 
 		// ball
@@ -168,8 +168,8 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
 		}
 
 		if (e.getKeyCode() == KeyEvent.VK_LEFT) {
-			if (e.getKeyCode() == KeyEvent.VK_RIGHT) {
-				if (playerX < 10) {
+			if (e.getKeyCode() == KeyEvent.VK_LEFT) {
+				if (playerX <= 10) {
 					playerX = 10;
 				} else {
 					moveLeft();
