@@ -5,13 +5,6 @@ import javax.swing.JFrame;
 public class Main {
 
 	public static void main(String[] args) {
-		
-		//TODO ball direction off paddle is set. Needs
-		//to change based on left side/right side.
-		//Comes off same way regardless. Makes game
-		//play in exact same pattern every time.
-		
-		
 		// JFrame - border
 		JFrame obj = new JFrame();
 		Gameplay gamePlay = new Gameplay();
