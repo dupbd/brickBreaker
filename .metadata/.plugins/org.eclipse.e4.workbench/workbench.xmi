@@ -233,7 +233,7 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_-FguYGl5EeuEebOeqPwucQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Gameplay.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Gameplay.java&quot; partName=&quot;Gameplay.java&quot; title=&quot;Gameplay.java&quot; tooltip=&quot;brickBreaker/src/brickBreaker/Gameplay.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/brickBreaker/src/brickBreaker/Gameplay.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1313&quot; selectionTopPixel=&quot;479&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Gameplay.java&quot; partName=&quot;Gameplay.java&quot; title=&quot;Gameplay.java&quot; tooltip=&quot;brickBreaker/src/brickBreaker/Gameplay.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/brickBreaker/src/brickBreaker/Gameplay.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;4004&quot; selectionTopPixel=&quot;2181&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -412,7 +412,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_peVEcGl4EeuEebOeqPwucQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_wEDJMIXdEeuHafk4sLyyfg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_pLOiUWl4EeuEebOeqPwucQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_PPWkAIahEeuQtMhXT3Rrkg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_pLOiUWl4EeuEebOeqPwucQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_peVEcWl4EeuEebOeqPwucQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -443,7 +443,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_peVrhWl4EeuEebOeqPwucQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_wEFlcIXdEeuHafk4sLyyfg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_pLMtHGl4EeuEebOeqPwucQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_PPZAQ4ahEeuQtMhXT3Rrkg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_pLMtHGl4EeuEebOeqPwucQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_peVrhml4EeuEebOeqPwucQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1076,7 +1076,7 @@
     <bindings xmi:id="_pLx75Wl4EeuEebOeqPwucQ" keySequence="ALT+CR" command="_pLIbqGl4EeuEebOeqPwucQ"/>
   </bindingTables>
   <bindingTables xmi:id="_pMUudGl4EeuEebOeqPwucQ" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_pKvaHWl4EeuEebOeqPwucQ">
-    <bindings xmi:id="_vymz4YXdEeuHafk4sLyyfg" keySequence="M1+W" command="_pMUucml4EeuEebOeqPwucQ">
+    <bindings xmi:id="_O9Z4YYahEeuQtMhXT3Rrkg" keySequence="M1+W" command="_pMUucml4EeuEebOeqPwucQ">
       <tags>deleted</tags>
     </bindings>
   </bindingTables>
